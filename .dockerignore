@@ -1,0 +1,8 @@
+.claude
+*.zip
+*.bat
+PUBLICAR.md
+DEPLOY-EASYPANEL.md
+assets/hero-alt.jpg
+.git
+Dockerfile
